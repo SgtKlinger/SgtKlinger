@@ -1,6 +1,4 @@
-## Hi, I’m @SgtKlinger, company clerk for 
-
-# Live Oak Controls
+## Hi, I’m @SgtKlinger!
 
 
 <!---
